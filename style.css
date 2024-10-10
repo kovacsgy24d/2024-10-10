@@ -1,9 +1,15 @@
 body {
-
+background-color: #eee;
+color: #333;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 main{
-
+    border: 2px;solid #999
+width: 600px;
+margin auto
+paddig: 20px;
+border radius: 10px;
 }
 
 head {
